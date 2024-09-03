@@ -5,6 +5,11 @@
 
 - 📫 How to reach me **zisztr@gmail.com**
 
+<h3>Link to Portfolio</h3>
+- <a href="https://github.com/ZisZtR/Portfolio/tree/main/Twitch" target="blank">Twitch Streamers Dataset</a><br>
+- <a href="https://github.com/ZisZtR/Portfolio/tree/main/Coffee" target="blank">Coffee Sales</a><br>
+- <a href="https://github.com/ZisZtR/Portfolio/tree/main/SEsalary" target="blank">Software Engineerer's Salary Visualization</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paranut wongsanupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paranut wongsanupa" height="30" width="40" /></a>
