@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paranut Wongsanupa</h1>
-<h3 align="center">A passionate fresh gradate in Department of Computer Engineering at Kasetsart University</h3>
+<h3 align="center">A passionate fresh gradate at Department of Computer Engineering at Kasetsart University</h3>
 
 - 🌱 I’m currently learning **Data Analytics & Data Scientist**
 
