@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning **Data Analytics & Data Scientist**
 
 - 📫 How to reach me **zisztr@gmail.com**
-
+https://github.com/ZisZtR/Learning-Projects/tree/main/Coffee
 <h3>Link to Self Learning Projects</h3>
-- <a href="https://github.com/ZisZtR/Portfolio/tree/main/Twitch" target="blank">Twitch Streamers Dataset</a><br>
-- <a href="https://github.com/ZisZtR/Portfolio/tree/main/Coffee" target="blank">Coffee Sales</a><br>
-- <a href="https://github.com/ZisZtR/Portfolio/tree/main/SEsalary" target="blank">Software Engineerer's Salary Visualization</a>
+- <a href="https://github.com/ZisZtR/Learning-Projects/tree/main/Twitch" target="blank">Twitch Streamers Dataset</a><br>
+- <a href="https://github.com/ZisZtR/Learning-Projects/tree/main/Coffee" target="blank">Coffee Sales</a><br>
+- <a href="https://github.com/ZisZtR/Learning-Projects/tree/main/SEsalary" target="blank">Software Engineerer's Salary Visualization</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
